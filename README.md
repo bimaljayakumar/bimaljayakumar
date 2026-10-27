@@ -6,19 +6,23 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,django&theme=dark&size=64" height="64" alt="Python and Django"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="72" alt="Python"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,html&theme=dark&size=64" height="64" alt="JavaScript, React, Next.js and HTML"/>
+<img src="https://skillicons.dev/icons?i=django,javascript&theme=dark" height="64" alt="Django and JavaScript"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=css,tailwind,mysql,sqlite,firebase,supabase&theme=dark&size=64" height="64" alt="CSS, Tailwind, MySQL, SQLite, Firebase and Supabase"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" height="64" alt="React, Next.js, HTML and CSS"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=php,nodejs,git,github,vscode,vercel,netlify,figma&theme=dark&size=64" height="64" alt="PHP, Node.js, Git, GitHub, VS Code, Vercel, Netlify and Figma"/>
+<img src="https://skillicons.dev/icons?i=tailwind,mysql,sqlite,firebase,supabase,php&theme=dark" height="64" alt="Tailwind, MySQL, SQLite, Firebase, Supabase and PHP"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,vercel,netlify,figma,cpp&theme=dark" height="64" alt="Node.js, Git, GitHub, VS Code, Vercel, Netlify, Figma and C++"/>
 
 </div>
 
