@@ -138,7 +138,7 @@ I'm a <strong>Python Developer</strong> passionate about building modern web app
 
 *If you find my projects useful, consider supporting my work.*
 
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+<a href="https://www.buymeacoffee.com/bimaljayakumar">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="180">
 </a>
 
