@@ -6,7 +6,19 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,django,js,react,nextjs,html,css,tailwind,mysql,sqlite,firebase,supabase,php,nodejs,git,github,vscode,vercel,netlify,figma&theme=dark&perline=5" width="100%" alt="My technology stack"/>
+<img src="https://skillicons.dev/icons?i=python,django&theme=dark&size=64" height="64" alt="Python and Django"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,html&theme=dark&size=64" height="64" alt="JavaScript, React, Next.js and HTML"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=css,tailwind,mysql,sqlite,firebase,supabase&theme=dark&size=64" height="64" alt="CSS, Tailwind, MySQL, SQLite, Firebase and Supabase"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=php,nodejs,git,github,vscode,vercel,netlify,figma&theme=dark&size=64" height="64" alt="PHP, Node.js, Git, GitHub, VS Code, Vercel, Netlify and Figma"/>
 
 </div>
 
