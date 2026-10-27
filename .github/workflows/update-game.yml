@@ -1,10 +1,10 @@
 
 name: Update Space Shooter Game
 
-on:
-  schedule:
-    - cron: '0 0 * * *'
+'on':
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -23,6 +23,5 @@ jobs:
         uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'
-          strategy: 'random'
-
+          output-path: game.gif
+          strategy: random
