@@ -10,6 +10,46 @@
 
 <div align="center">
 
+## GITHUB STATISTICS
+
+<em>My activity, contributions, and development progress.</em>
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bimaljayakumar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&ring_color=3fb950&include_all_commits=true" alt="GitHub profile statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaljayakumar&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used programming languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bimaljayakumar&hide_border=true&background=0d1117&ring=bc8cff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=bimaljayakumar&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub trophies"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
 ## MY JOURNEY
 
 <em>My academic journey, from school to graduation.</em>
