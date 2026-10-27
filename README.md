@@ -1,12 +1,12 @@
 <div align="center">
 
-## `TECH STACK`
+## TECH STACK
 
-*“Turning ideas into code, and code into solutions.”*
+*“Learn continuously. Build intelligently. Create with purpose.”*
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,django,js,react,nextjs,html,css,tailwind,mysql,sqlite,firebase,supabase,php,nodejs,git,github,vscode,vercel,netlify,figma&theme=dark&perline=7" alt="Technologies and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,django,js,react,nextjs,html,css,tailwind,mysql,sqlite,firebase,supabase,php,nodejs,git,github,vscode,vercel,netlify,figma&theme=dark&perline=5" width="100%" alt="My technology stack"/>
 
 </div>
 
