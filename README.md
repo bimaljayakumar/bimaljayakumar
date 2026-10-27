@@ -1,35 +1,14 @@
 <div align="center">
 
-## WHAT I WORK WITH
+## `TECH STACK`
+
+*“Turning ideas into code, and code into solutions.”*
 
 <br/>
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp,php,java&theme=dark" alt="Programming languages"/>
-
-<br/>
-
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend technologies"/>
-
-<br/>
-
-**BACKEND & DATABASES**
-
-<img src="https://skillicons.dev/icons?i=django,nodejs,mysql,sqlite,firebase,supabase&theme=dark" alt="Backend and database technologies"/>
-
-<br/>
-
-**TOOLS & DEPLOYMENT**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=python,django,js,react,nextjs,html,css,tailwind,mysql,sqlite,firebase,supabase,php,nodejs,git,github,vscode,vercel,netlify,figma&theme=dark&perline=7" alt="Technologies and development tools"/>
 
 </div>
-
-
-
 
 
 
