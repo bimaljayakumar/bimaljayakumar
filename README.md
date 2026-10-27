@@ -11,106 +11,74 @@
 
 ## MY JOURNEY
 
-<em>A journey of learning, growth, and building through technology.</em>
+*The milestones that shaped my path in technology.*
 
 <br/>
 
 <table>
 <tr>
-<td align="center" width="70">
-<svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">
-<circle cx="22" cy="22" r="20" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
-<text x="22" y="28" text-anchor="middle" font-size="19" fill="#58a6ff">01</text>
-</svg>
+<td width="56" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="42" alt="Degree"/>
 </td>
-<td align="left">
+<td valign="top">
 
-**SECONDARY EDUCATION**
+### BACHELOR OF COMPUTER APPLICATIONS
 
-**M.E.M. Residential High School**
+**M. C. Varghese College of Arts & Science**
 
-CBSE · Class X · `2020–2021`
+`2023 – 2026` · **CGPA 7.43 / 10**
+
+*Building a strong foundation in computer applications and software development.*
 
 </td>
 </tr>
 <tr>
-<td align="center">
-<svg width="44" height="48" viewBox="0 0 44 48" xmlns="http://www.w3.org/2000/svg">
-<path d="M22 0 V48" stroke="#58a6ff" stroke-width="2" stroke-dasharray="3 4"/>
-</svg>
+<td colspan="2" align="center">
+<img src="https://img.icons8.com/ios/50/64748b/vertical-line.png" height="28" alt=""/>
 </td>
-<td></td>
 </tr>
 <tr>
-<td align="center" width="70">
-<svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">
-<circle cx="22" cy="22" r="20" fill="#161b22" stroke="#a371f7" stroke-width="2"/>
-<text x="22" y="28" text-anchor="middle" font-size="19" fill="#a371f7">02</text>
-</svg>
+<td width="56" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/school.png" width="42" alt="Higher secondary"/>
 </td>
-<td align="left">
+<td valign="top">
 
-**HIGHER SECONDARY**
+### HIGHER SECONDARY EDUCATION
 
 **Holy Cross HSS, Thellakom**
 
-DHSE Kerala · Class XII · `2021–2023`
+`2021 – 2023` · DHSE Kerala
+
+*Developing the academic foundation for my journey in computing.*
 
 </td>
 </tr>
 <tr>
-<td align="center">
-<svg width="44" height="48" viewBox="0 0 44 48" xmlns="http://www.w3.org/2000/svg">
-<path d="M22 0 V48" stroke="#a371f7" stroke-width="2" stroke-dasharray="3 4"/>
-</svg>
-</td>
-<td></td>
-</tr>
-<tr>
-<td align="center" width="70">
-<svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">
-<circle cx="22" cy="22" r="20" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
-<text x="22" y="28" text-anchor="middle" font-size="19" fill="#3fb950">03</text>
-</svg>
-</td>
-<td align="left">
-
-**UNDERGRADUATE DEGREE**
-
-**M. C. Varghese College of Arts &amp; Science**
-
-Bachelor of Computer Applications (BCA)
-
-`2023–2026` · **CGPA 7.43 / 10**
-
+<td colspan="2" align="center">
+<img src="https://img.icons8.com/ios/50/64748b/vertical-line.png" height="28" alt=""/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<svg width="44" height="48" viewBox="0 0 44 48" xmlns="http://www.w3.org/2000/svg">
-<path d="M22 0 V48" stroke="#3fb950" stroke-width="2" stroke-dasharray="3 4"/>
-</svg>
+<td width="56" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/book.png" width="42" alt="Secondary education"/>
 </td>
-<td></td>
-</tr>
-<tr>
-<td align="center" width="70">
-<svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">
-<circle cx="22" cy="22" r="20" fill="#161b22" stroke="#f0883e" stroke-width="2"/>
-<text x="22" y="28" text-anchor="middle" font-size="19" fill="#f0883e">04</text>
-</svg>
-</td>
-<td align="left">
+<td valign="top">
 
-**DEVELOPMENT JOURNEY**
+### SECONDARY EDUCATION
 
-Python · Django · Artificial Intelligence
+**M.E.M. Residential High School**
 
-Web Development · Software Projects
+`2020 – 2021` · CBSE Class X
+
+*Where my academic journey began.*
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<sub>LEARN · BUILD · EVOLVE</sub>
 
 </div>
 
