@@ -79,3 +79,24 @@
 <sub>BUILDING CONNECTIONS. SHARING IDEAS. CREATING IMPACT.</sub>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+## ☕ SUPPORT MY WORK
+
+*If you find my projects useful, consider supporting my work.*
+
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="180"/>
+</a>
+
+</div>
