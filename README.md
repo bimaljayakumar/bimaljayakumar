@@ -1,5 +1,31 @@
 <div align="center">
 
+## ABOUT ME
+
+<p>
+  I'm a <strong>Python Developer</strong> passionate about building modern web applications, exploring <strong>Artificial Intelligence</strong>, and transforming ideas into practical software solutions.
+</p>
+
+<p>
+  <em>Driven by curiosity. Focused on innovation. Always building.</em>
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
 ## TECH STACK
 
 *“Learn continuously. Build intelligently. Create with purpose.”*
