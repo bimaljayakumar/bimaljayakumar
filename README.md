@@ -143,3 +143,18 @@ I'm a <strong>Python Developer</strong> passionate about building modern web app
 </a>
 
 </div>
+
+<br><br>
+
+<div align="center">
+
+### SPACE SHOOTER
+
+<sub>My coding journey, turned into an arcade battle.</sub>
+
+<br/>
+
+<img src="./game.gif" width="100%" alt="GitHub Contribution Space Shooter"/>
+
+</div>
+
