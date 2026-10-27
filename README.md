@@ -7,6 +7,124 @@
 
 
 
+<div align="center">
+
+## MY JOURNEY
+
+<em>A journey of learning, growth, and building through technology.</em>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="70">
+<svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">
+<circle cx="22" cy="22" r="20" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+<text x="22" y="28" text-anchor="middle" font-size="19" fill="#58a6ff">01</text>
+</svg>
+</td>
+<td align="left">
+
+**SECONDARY EDUCATION**
+
+**M.E.M. Residential High School**
+
+CBSE · Class X · `2020–2021`
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<svg width="44" height="48" viewBox="0 0 44 48" xmlns="http://www.w3.org/2000/svg">
+<path d="M22 0 V48" stroke="#58a6ff" stroke-width="2" stroke-dasharray="3 4"/>
+</svg>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" width="70">
+<svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">
+<circle cx="22" cy="22" r="20" fill="#161b22" stroke="#a371f7" stroke-width="2"/>
+<text x="22" y="28" text-anchor="middle" font-size="19" fill="#a371f7">02</text>
+</svg>
+</td>
+<td align="left">
+
+**HIGHER SECONDARY**
+
+**Holy Cross HSS, Thellakom**
+
+DHSE Kerala · Class XII · `2021–2023`
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<svg width="44" height="48" viewBox="0 0 44 48" xmlns="http://www.w3.org/2000/svg">
+<path d="M22 0 V48" stroke="#a371f7" stroke-width="2" stroke-dasharray="3 4"/>
+</svg>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" width="70">
+<svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">
+<circle cx="22" cy="22" r="20" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
+<text x="22" y="28" text-anchor="middle" font-size="19" fill="#3fb950">03</text>
+</svg>
+</td>
+<td align="left">
+
+**UNDERGRADUATE DEGREE**
+
+**M. C. Varghese College of Arts &amp; Science**
+
+Bachelor of Computer Applications (BCA)
+
+`2023–2026` · **CGPA 7.43 / 10**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<svg width="44" height="48" viewBox="0 0 44 48" xmlns="http://www.w3.org/2000/svg">
+<path d="M22 0 V48" stroke="#3fb950" stroke-width="2" stroke-dasharray="3 4"/>
+</svg>
+</td>
+<td></td>
+</tr>
+<tr>
+<td align="center" width="70">
+<svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">
+<circle cx="22" cy="22" r="20" fill="#161b22" stroke="#f0883e" stroke-width="2"/>
+<text x="22" y="28" text-anchor="middle" font-size="19" fill="#f0883e">04</text>
+</svg>
+</td>
+<td align="left">
+
+**DEVELOPMENT JOURNEY**
+
+Python · Django · Artificial Intelligence
+
+Web Development · Software Projects
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
 
