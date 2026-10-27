@@ -134,7 +134,7 @@ I'm a <strong>Python Developer</strong> passionate about building modern web app
 
 <div align="center">
 
-## ☕ SUPPORT MY WORK
+## SUPPORT MY WORK
 
 *If you find my projects useful, consider supporting my work.*
 
@@ -148,7 +148,7 @@ I'm a <strong>Python Developer</strong> passionate about building modern web app
 
 <div align="center">
 
-### SPACE SHOOTER
+## SPACE SHOOTER
 
 <sub>My coding journey, turned into an arcade battle.</sub>
 
