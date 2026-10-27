@@ -1,25 +1,65 @@
-# 💫 About Me:
-I'm a Python Full Stack Developer passionate about building modern web applications and solving real-world problems. Always learning, improving, and building. 🚀
+ <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=BIMAL%20JAYAKUMAR&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descSize=13&descAlignY=68" width="100%" alt="Bimal Jayakumar"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_plotracer._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bimaljayakumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bimaljayakumar18@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bimaljayakumar&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bimaljayakumar&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bimaljayakumar&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=Building+with+purpose.;Writing+clean+code.;Always+evolving." alt="Developer tagline"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bimaljayakumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/><br/>
+
+<a href="https://github.com/bimaljayakumar"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/bimaljayakumar"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:bimaljayakumar18@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=bimaljayakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/bimaljayakumar) 
+<h3 align="center">TECHNOLOGIES</h3>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,nextjs,mysql,sqlite,git,github,vscode&theme=dark" alt="Technology icons"/>
+
+</div>
+
+---
+
+<h3 align="center">CONTRIBUTION ARCADE</h3>
+
+<div align="center">
+
+<img src="./game.gif" width="100%" alt="GitHub contribution space shooter"/>
+
+</div>
+
+---
+
+<h3 align="center">GITHUB STATISTICS</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bimaljayakumar&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" width="49%" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaljayakumar&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999" width="49%" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=bimaljayakumar&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=999999&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666" width="70%" alt="Contribution streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/bimaljayakumar?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="Explore repositories"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bimaljayakumar&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/>
+
+<sub>BUILD. CREATE. EVOLVE.</sub>
+
+</div>
