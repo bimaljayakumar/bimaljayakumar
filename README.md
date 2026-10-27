@@ -9,35 +9,30 @@
 
 
 
-<h2 align="center">GITHUB STATISTICS</h2>
-<p align="center">
-  <em>Activity · Contributions · Development</em>
-</p>
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+<div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=bimaljayakumar&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=BC8CFF&ring_color=3FB950&hide_rank=true" alt="GitHub statistics"/>
+### GITHUB STATISTICS
 
-</td>
-<td width="50%" valign="top" align="center">
+<sub>Activity · Contributions · Languages · Consistency</sub>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaljayakumar&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Most used programming languages"/>
+<br/>
 
-</td>
-</tr>
-</table>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=bimaljayakumar&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=FFFFFF&icon_color=BC8CFF&custom_title=GitHub%20Overview&card_width=440" alt="GitHub overview"/>
 
-<p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=bimaljayakumar&theme=dark&hide_border=true&background=0D1117&ring=BC8CFF&fire=FF7B72&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" alt="Current and longest contribution streak"/>
-</p>
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaljayakumar&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=FFFFFF&card_width=440" alt="Most used languages"/>
 
-<h3 align="center">GITHUB ACHIEVEMENTS</h3>
+<br clear="both"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bimaljayakumar&theme=darkhub&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub achievements"/>
-</p>
+<br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=bimaljayakumar&hide_border=true&background=00000000&ring=58A6FF&fire=BC8CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&stroke=00000000" alt="GitHub contribution streak"/>
+
+<br/>
+
+<sub>Consistent progress. Continuous learning. Building through code.</sub>
+
+</div>
 
 
 
