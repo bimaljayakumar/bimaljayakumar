@@ -1,4 +1,14 @@
 <div align="center">
+  <img src="./file_00000000027c820888de9f6c64115c1d.png" width="100%" alt="Profile Banner">
+</div>
+
+
+
+
+
+
+
+<div align="center">
 
 ## ABOUT ME
 
