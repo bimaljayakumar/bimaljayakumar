@@ -7,80 +7,50 @@
 
 
 
+
 <div align="center">
 
 ## MY JOURNEY
 
-*The milestones that shaped my path in technology.*
-
-<br/>
-
-<table>
-<tr>
-<td width="56" align="center" valign="top">
-<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="42" alt="Degree"/>
-</td>
-<td valign="top">
-
-### BACHELOR OF COMPUTER APPLICATIONS
-
-**M. C. Varghese College of Arts & Science**
-
-`2023 – 2026` · **CGPA 7.43 / 10**
-
-*Building a strong foundation in computer applications and software development.*
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://img.icons8.com/ios/50/64748b/vertical-line.png" height="28" alt=""/>
-</td>
-</tr>
-<tr>
-<td width="56" align="center" valign="top">
-<img src="https://img.icons8.com/fluency/96/school.png" width="42" alt="Higher secondary"/>
-</td>
-<td valign="top">
-
-### HIGHER SECONDARY EDUCATION
-
-**Holy Cross HSS, Thellakom**
-
-`2021 – 2023` · DHSE Kerala
-
-*Developing the academic foundation for my journey in computing.*
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://img.icons8.com/ios/50/64748b/vertical-line.png" height="28" alt=""/>
-</td>
-</tr>
-<tr>
-<td width="56" align="center" valign="top">
-<img src="https://img.icons8.com/fluency/96/book.png" width="42" alt="Secondary education"/>
-</td>
-<td valign="top">
-
-### SECONDARY EDUCATION
-
-**M.E.M. Residential High School**
-
-`2020 – 2021` · CBSE Class X
-
-*Where my academic journey began.*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<sub>LEARN · BUILD · EVOLVE</sub>
+<em>My academic journey, from school to graduation.</em>
 
 </div>
+
+<p>
+  <img src="https://img.icons8.com/fluency/48/graduation-cap.png" width="32" align="left" alt="BCA"/>
+  <strong>&nbsp; 2023 – 2026 | BACHELOR OF COMPUTER APPLICATIONS</strong>
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp; **M. C. Varghese College of Arts &amp; Science**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Completed my BCA with a CGPA of **7.43 / 10**, studying computer applications, programming, databases, and software development.
+
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/ios/24/64748b/vertical-line.png" height="42" alt=""/>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/fluency/48/school.png" width="32" align="left" alt="Higher Secondary"/>
+  <strong>&nbsp; 2021 – 2023 | HIGHER SECONDARY EDUCATION</strong>
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Holy Cross HSS, Thellakom**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Completed Higher Secondary Education under the **DHSE Kerala** curriculum.
+
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/ios/24/64748b/vertical-line.png" height="42" alt=""/>
+</p>
+
+<p>
+  <img src="https://img.icons8.com/fluency/48/book.png" width="32" align="left" alt="Secondary Education"/>
+  <strong>&nbsp; 2020 – 2021 | SECONDARY EDUCATION</strong>
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp; **M.E.M. Residential High School, Ettumanoor**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Completed Class X under the **CBSE** curriculum.
+
 
 
 
