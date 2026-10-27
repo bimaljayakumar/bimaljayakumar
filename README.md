@@ -1,57 +1,23 @@
+```html
 <div align="center">
   <img src="./file_00000000027c820888de9f6c64115c1d.png" width="100%" alt="Profile Banner">
 </div>
 
-
-
-
-
-
-
-
-
 <div align="center">
 
-### GITHUB STATISTICS
+## ABOUT ME
 
-<sub>Activity · Contributions · Languages · Consistency</sub>
+<p>
+  I'm a <strong>Python Developer</strong> passionate about building modern web applications, exploring <strong>Artificial Intelligence</strong>, and transforming ideas into practical software solutions.
+</p>
 
-<br/>
-
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=bimaljayakumar&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=FFFFFF&icon_color=BC8CFF&custom_title=GitHub%20Overview&card_width=440" alt="GitHub overview"/>
-
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaljayakumar&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=FFFFFF&card_width=440" alt="Most used languages"/>
-
-<br clear="both"/>
-
-<br/>
-
-<img width="72%" src="https://streak-stats.demolab.com?user=bimaljayakumar&hide_border=true&background=00000000&ring=58A6FF&fire=BC8CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&stroke=00000000" alt="GitHub contribution streak"/>
-
-<br/>
-
-<sub>Consistent progress. Continuous learning. Building through code.</sub>
+<p>
+  <em>Driven by curiosity. Focused on innovation. Always building.</em>
+</p>
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/><br/>
 
 <div align="center">
 
@@ -96,44 +62,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Completed Class X under the **CBSE** curriculum.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-## ABOUT ME
-
-<p>
-  I'm a <strong>Python Developer</strong> passionate about building modern web applications, exploring <strong>Artificial Intelligence</strong>, and transforming ideas into practical software solutions.
-</p>
-
-<p>
-  <em>Driven by curiosity. Focused on innovation. Always building.</em>
-</p>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
+<br/><br/>
 
 <div align="center">
 
@@ -163,17 +92,33 @@
 
 </div>
 
+<br/><br/>
 
+<div align="center">
 
+### GITHUB STATISTICS
 
+<sub>Activity · Contributions · Languages · Consistency</sub>
 
+<br/>
 
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=bimaljayakumar&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=FFFFFF&icon_color=BC8CFF&custom_title=GitHub%20Overview&card_width=440" alt="GitHub overview"/>
 
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaljayakumar&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=FFFFFF&card_width=440" alt="Most used languages"/>
 
+<br clear="both"/>
 
+<br/>
 
+<img width="72%" src="https://streak-stats.demolab.com?user=bimaljayakumar&hide_border=true&background=00000000&ring=58A6FF&fire=BC8CFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9&stroke=00000000" alt="GitHub contribution streak"/>
 
+<br/>
 
+<sub>Consistent progress. Continuous learning. Building through code.</sub>
+
+</div>
+
+<br/><br/>
 
 <div align="center">
 
@@ -191,14 +136,7 @@
 
 </div>
 
-
-
-
-
-
-
-
-
+<br/><br/>
 
 <div align="center">
 
@@ -211,3 +149,4 @@
 </a>
 
 </div>
+```
