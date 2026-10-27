@@ -8,27 +8,37 @@
 
 
 
-<div align="center">
 
-## GITHUB STATISTICS
+<h2 align="center">GITHUB STATISTICS</h2>
+<p align="center">
+  <em>Activity · Contributions · Development</em>
+</p>
 
-<em>My activity, contributions, and development progress.</em>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<br/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=bimaljayakumar&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=BC8CFF&ring_color=3FB950&hide_rank=true" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bimaljayakumar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&ring_color=3fb950&include_all_commits=true" alt="GitHub profile statistics"/>
+</td>
+<td width="50%" valign="top" align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaljayakumar&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used programming languages"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimaljayakumar&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Most used programming languages"/>
 
-<br/>
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bimaljayakumar&hide_border=true&background=0d1117&ring=bc8cff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub contribution streak"/>
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=bimaljayakumar&theme=dark&hide_border=true&background=0D1117&ring=BC8CFF&fire=FF7B72&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" alt="Current and longest contribution streak"/>
+</p>
 
-<br/>
+<h3 align="center">GITHUB ACHIEVEMENTS</h3>
 
-<img src="https://github-profile-trophy.vercel.app/?username=bimaljayakumar&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub trophies"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bimaljayakumar&theme=darkhub&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub achievements"/>
+</p>
 
-</div>
 
 
 
